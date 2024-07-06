@@ -1,0 +1,160 @@
+{
+	"sheets": [
+		{
+			"name": "ModManager",
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "Perfil"
+				},
+				{
+					"typeStr": "3",
+					"name": "MaxMods"
+				},
+				{
+					"typeStr": "8",
+					"name": "DelSinDHS"
+				},
+				{
+					"typeStr": "8",
+					"name": "ActSinDHS",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "DelConDHS",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "ActConDHS",
+					"display": null
+				},
+				{
+					"typeStr": "8",
+					"name": "DelMods",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"MaxMods": 121,
+					"Perfil": "Josexo Server",
+					"DelSinDHS": [
+						{
+							"": 122
+						},
+						{
+							"": 123
+						},
+						{
+							"": 124
+						},
+						{
+							"": 61
+						}
+					],
+					"ActSinDHS": [
+						{
+							"": 35
+						}
+					],
+					"DelConDHS": [
+						{
+							"": 35
+						}
+					],
+					"ActConDHS": [
+						{
+							"": 122
+						},
+						{
+							"": 123
+						},
+						{
+							"": 124
+						},
+						{
+							"": 61
+						}
+					],
+					"DelMods": []
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "ModManager@DelSinDHS",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "3",
+					"name": ""
+				}
+			]
+		},
+		{
+			"name": "ModManager@ActSinDHS",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "3",
+					"name": ""
+				}
+			]
+		},
+		{
+			"name": "ModManager@DelConDHS",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "3",
+					"name": ""
+				}
+			]
+		},
+		{
+			"name": "ModManager@ActConDHS",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "3",
+					"name": ""
+				}
+			]
+		},
+		{
+			"name": "ModManager@DelMods",
+			"props": {
+				"hide": true
+			},
+			"separators": [],
+			"lines": [],
+			"columns": [
+				{
+					"typeStr": "3",
+					"name": ""
+				}
+			]
+		}
+	],
+	"customTypes": [],
+	"compress": false
+}
