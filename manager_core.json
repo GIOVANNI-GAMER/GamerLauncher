@@ -38,44 +38,22 @@
 			],
 			"lines": [
 				{
-					"MaxMods": 121,
-					"Perfil": "Josexo Server",
+					"MaxMods": 40,
+					"Perfil": "Experimento Sobrecarga",
 					"DelSinDHS": [
 						{
-							"": 122
+							"": 11
 						},
 						{
-							"": 123
-						},
-						{
-							"": 124
-						},
-						{
-							"": 61
-						}
-					],
-					"ActSinDHS": [
-						{
-							"": 35
-						}
-					],
-					"DelConDHS": [
-						{
-							"": 35
+							"": 24
 						}
 					],
 					"ActConDHS": [
 						{
-							"": 122
+							"": 11
 						},
 						{
-							"": 123
-						},
-						{
-							"": 124
-						},
-						{
-							"": 61
+							"": 24
 						}
 					],
 					"DelMods": []
